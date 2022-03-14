@@ -11,7 +11,10 @@ This is an example React app that uses th API available at : https://dog.ceo/dog
 - cards can be deleted individually, the display grid will auto-adjust.
 
 ### Technologies Used
-
+- React.js
+- react-dom
+- Tailwinds CSS
+- Javascript
 
 ### Example of use
 
