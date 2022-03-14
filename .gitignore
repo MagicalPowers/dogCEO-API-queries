@@ -42,10 +42,6 @@ node_modules/
 jspm_packages/
 .yarn/
 
-
-# locally installed dependency files
-yarn.lock
-
 # TypeScript v1 declaration files
 typings/
 
